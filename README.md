@@ -13,4 +13,4 @@ After all players have completed their turns, the game asks if you want to play 
 Enter 'yes' to start a new game or 'no' to end the game.
 
 Dependencies:
-The game requires Python 3 to run.
+The game requires Python 3 to run in your system.

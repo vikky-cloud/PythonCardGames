@@ -49,7 +49,7 @@ def play_game():
                 player_names.append(name)
                 break
             else:
-                print("Please enter a valid name with alphabets only.")
+                print("Please enter valid name with alphabets only.")
 
     deck = create_deck()
     hands = distribute_cards(deck, num_players)
